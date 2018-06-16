@@ -1,0 +1,1 @@
+Example of HOC Tree Component for React-Table 
